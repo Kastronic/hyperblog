@@ -1,10 +1,13 @@
 body{
+    background: #1e1f24;
     color: blue;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
     font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
 
 #cabecera{
@@ -14,6 +17,11 @@ body{
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+
+#cabecera #logo{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline{
@@ -36,4 +44,5 @@ body{
 
 #post{
     padding: 1em;
+    background: white;
 }
