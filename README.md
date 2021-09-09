@@ -10,3 +10,5 @@ remoto, tambien he aprendido muchos comandos que se pueden utilizar en consola.
 * Buenas practicas
 * Trucos locos 
 * Personalidad multiple 
+* Creado por Kastronic
+
