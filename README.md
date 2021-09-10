@@ -11,4 +11,6 @@ remoto, tambien he aprendido muchos comandos que se pueden utilizar en consola.
 * Trucos locos 
 * Personalidad multiple 
 * Creado por Kastronic
+* Incluye ejemplos en Windows, Lunix y Mac 
+* Disponible para todas las edades 
 
